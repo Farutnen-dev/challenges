@@ -1,0 +1,30 @@
+body{
+    width: 100vh;
+    height: 100vh;
+    background: linear-gradient(#f48d98, #9f3e59);  
+}
+.container{
+
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+    text-align: center;
+    font-size:2em;
+    color:#fff;
+}
+.card  {
+    margin-top: 5%;
+    padding: 1% 2%;
+    background: linear-gradient(#70e2cc, #52c5b9);
+    border-radius:.6rem;
+}
+
+p :first-of-type:first-letter{
+    float: left;
+}
+a{
+    transition: position linear;
+}
+p{
+    font-style:
+}
