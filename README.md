@@ -5,4 +5,4 @@ prácticas de frontend con HTML, CSS y JavaScript
  <p align="center"> A continuación, habrá una lista con todos los challenges realizados: </p>
  <h2 align="center" src="./expanding-cards/index.html"> - Expanding Cards</h2>
  <h2 align="center"> - Form Sing in</h2>
-<h2 align="center"> - Progress Steps</h2>
+<h2 align="center" src="https://farutnen.github.io/challenges/progress-steps/index.html"> - Progress Steps</h2>
